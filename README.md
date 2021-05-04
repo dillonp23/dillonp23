@@ -1,4 +1,4 @@
-### Hi there, I'm Dillon 👋
+![github_banner-2](https://user-images.githubusercontent.com/52013691/117034113-98af6400-acc8-11eb-8fef-5dbd462e0e3a.png)
 
 <!--
 **dillonp23/dillonp23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
