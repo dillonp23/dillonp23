@@ -10,6 +10,7 @@ I'm most interested in building consumer-facing applications that prioritize goo
 
 I have a strong desire to work with a team at a small-medium stage startup. An environment where I can constantly face new challenges, learn from others with more experience and prepare for the inevitable day that I decide to run with one of my ideas, seek funding, and become a startup founder myself.
 
+
 ## 📱 My tech stack
 #### 📚 Languages:
 Swift, Objective-C, Python
@@ -23,3 +24,11 @@ MVC, MVVM, Object & Protocol Oriented Programming, Delegation, Observer, Imperat
 #### 🤓 Technologies & Frameworks: 
 UIKit, Foundation, SwiftUI, Cocoa Touch, Core Data, Core Location, HealthKit, Notification Center, 
 XCTest, XCUITest, Concurrency, GCD, Thread Safety, CocoaPods, SPM, REST APIs, Firebase, Agile, Scrum
+
+
+## ⏰ I'm currently...
+👨‍💻 Working on an application for mental health and personal development
+
+🧠 Learning SwiftUI and the latest Apple frameworks and APIs released in Swift 5.5
+
+📫 Reachable at me@dillios.dev
