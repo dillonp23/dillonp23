@@ -22,17 +22,13 @@
 
 
 ## 📱 My tech stack
-#### 📚 Languages:
-Swift, Objective-C, Python
+**📚 Languages:**  Swift, Objective-C, Python
 
-#### 🛠 Systems & Tools:
-Xcode, Git, VSCode, iOS SDK, TestFlight, App Store Connect, Figma, Sketch
+**🛠 Systems & Tools:** Xcode, Git, VSCode, iOS SDK, TestFlight, App Store Connect, Figma, Sketch
 
-#### 🎨 Architectures & Patterns:
-MVC, MVVM, Object & Protocol Oriented Programming, Delegation, Observer, Imperative & Declarative Programming
+**🎨 Architectures & Patterns:** MVC, MVVM, Object & Protocol Oriented Programming, Delegation, Observer, Imperative & Declarative Programming
 
-#### 🤓 Technologies & Frameworks: 
-UIKit, Foundation, SwiftUI, Cocoa Touch, Core Data, Core Location, HealthKit, Notification Center, 
+**🤓 Technologies & Frameworks:** UIKit, Foundation, SwiftUI, Cocoa Touch, Core Data, Core Location, HealthKit, Notification Center, 
 XCTest, XCUITest, Concurrency, GCD, Thread Safety, CocoaPods, SPM, REST APIs, Firebase, Agile, Scrum
 
 
