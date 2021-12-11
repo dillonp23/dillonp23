@@ -2,22 +2,21 @@
 
 ## 🚀 About me
 - Former immunology lab researcher w/ a B.S. in Biology
-- Began designing & developing websites in 2016
+- Designing & developing websites since 2016
 - 4+ years collaborating w/ business owners to build their websites
-- Started learning iOS development in 2019
-- 2.5+ years of experience building mobile applications in Swift
+- Building iOS applications since 2019
+- 2.5+ years experience developing in Swift
 
 
 ## 🤩 I'm most interested in...
-- Small-medium stage startups
-- Building consumer-facing products that prioritize UI/UX
+- Small-to-medium sized, design-driven startups building consumer applications
 - Fast-paced environments w/ frequent challenges & opportunities to learn
 - Experimenting, building out new ideas & features, and directly impacting the product
-- Workplaces that value change and cross-functional collaboration
-- Working w/ teams that...
+- Workplaces & teams that...
+    - Value change and cross-functional collaboration
     - Encourage constant brainstorming, feedback, and new ideas
     - Aren't afraid to take risks
-    - Embrace ideas coming from ***everyone***, even entry-level employees
+    - Embrace ideas coming from ***everyone***, including new & entry-level employees
     - Are 100% committed to the product, vision, team, and users
 
 
