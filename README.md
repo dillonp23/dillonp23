@@ -3,7 +3,7 @@
 ## 🚀 About me
 - Former immunology lab researcher w/ a B.S. in Biology
 - Designing & developing websites since 2016
-- 4+ years collaborating w/ business owners to build their websites
+- 5+ years collaborating w/ business owners to build their websites
 - Building iOS applications since 2019
 - 2.5+ years experience developing in Swift
 
