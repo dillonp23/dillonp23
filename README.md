@@ -5,7 +5,7 @@
 - Designing & developing websites since 2016
 - 5+ years collaborating w/ business owners to build their websites
 - Building iOS applications since 2019
-- 2.5+ years experience developing in Swift
+- ~3 years experience developing in Swift
 
 
 ## 🤩 I'm most interested in...
