@@ -4,9 +4,8 @@
 - Former immunology lab researcher w/ a B.S. in Biology
 - Designing & developing websites since 2016
 - 5+ years collaborating w/ business owners to build their websites
-- Building iOS applications since 2019
-- ~3 years experience developing in Swift
-
+- Building iOS apps since 2019
+- 7+ years of iOS development experience using Swift, UIKit, and SwiftUI
 
 ## 🤩 I'm most interested in...
 - Small-to-medium sized, design-driven startups building consumer applications
