@@ -31,14 +31,6 @@
 XCTest, XCUITest, Concurrency, GCD, Thread Safety, CocoaPods, SPM, REST APIs, Firebase, Agile, Scrum
 
 
-## ⏰ I'm currently...
-👨‍💻 Working on an application for mental wellness and personal development
-
-🧠 Learning SwiftUI and the latest Apple frameworks and APIs released in Swift 5.5
-
-📫 Reachable at me@dillios.dev
-
-
 ## 🔗 Links
 [![Portfolio](https://img.shields.io/badge/Portfolio-6bc7ad.svg?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)](https://dillios.dev/)
 [![AngelList](https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black)](https://angel.co/u/dillios)
